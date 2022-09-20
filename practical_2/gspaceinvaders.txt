@@ -1,0 +1,4 @@
+extern keyword
+explicit keyword
+inheritance
+every declared static variable must be defined somewhere
